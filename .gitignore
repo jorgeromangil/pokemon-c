@@ -1,0 +1,25 @@
+# Compiled Executables
+*.exe
+*.out
+*.bin
+pokemon
+pokemoncfinal
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# IDE/Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
