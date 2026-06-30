@@ -2,7 +2,7 @@
 
 An interactive text-based Pokémon battle simulator, written entirely in C. The game allows you to view pre-loaded Pokémon with realistic stats, add your own custom Pokémon, and participate in turn-based battles featuring graphical health bars in the console.
 
-## 🌟 Features
+## Features
 
 - **Dynamic Console UI:** Features an introductory colored ASCII art title banner (using ANSI codes) and a Pokéball.
 - **Initial Database:** Pre-loaded with 10 classic Pokémon of different types (Charmander, Ninetales, Quilava, Dratini, Axew, Starmie, Lapras, Slowpoke, Togetic, and Enamorus) with balanced stats for attack, defense, and health.
@@ -23,7 +23,7 @@ An interactive text-based Pokémon battle simulator, written entirely in C. The 
   - Automatic detection of the end of the battle (Victory, Defeat, or Draw).
 - **Input Validation:** Prevents invalid user inputs in menus, action selection, and Pokémon changes.
 
-## 📁 Project Structure
+## Project Structure
 
 The repository is organized as follows:
 
@@ -33,7 +33,7 @@ The repository is organized as follows:
   - `pokemonc.c`: Initial basic version with generic Charmanders and incomplete battle loops.
   - `pokemon1012.c`: Intermediate version that modularized some selection parts but left the combat simulation incomplete.
 
-## 🛠️ Compilation and Execution
+## Compilation and Execution
 
 To compile and run the project, ensure you have a C compiler installed (such as `gcc` or `clang`).
 
